@@ -1,0 +1,25 @@
+* {
+box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+  padding: 20px 40px;
+}
+
+li {
+  list-style-type:none;
+}
+
+input {
+  background-color: transparent;
+  border: 1px solid black;
+}
+
+button {
+  background-color: transparent;
+  border: 1px solid black;
+  margin: 3px;
+  padding: 1px 3px;
+  min-width: 20px;
+}
